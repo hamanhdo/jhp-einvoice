@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "einvoice",
+    "packageName": "com.hapasio.einvoice",
+    "packageFolder": "com/hapasio/einvoice",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "vi",
+    "languages": [
+      "en",
+      "vi"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "NWMwYTE3MTc1OTdiOWZjODA5ZjM3MmE4MDVjNjViMjhlMjNmYzM5NGJmODcxOTg5ZGNlYjBlMWE2MjAzNzgyYjYwOGJiYzg0ZDU2ZjMwY2MyOTBiOGY3ZTE4MjZhYmZiYWIzYjgxZDI2OTZlZDBiNjhkNTE4MGEyOWUzOGI0MjY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "hamanhdo",
+  "repository-name": "jhp-einvoice"
+}
